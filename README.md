@@ -81,7 +81,7 @@ The green and red colors denote whether a frame belongs to a repetitive segment 
 
 
 ## LICENSE
-Please see [LICENSE.md](../LICENSE.md).
+Please see [LICENSE.md](LICENSE.md).
 
 ## Contact
 If you have any question or comment, please email <ch.yoo@etri.re.kr>.
